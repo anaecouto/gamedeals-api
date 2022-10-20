@@ -132,8 +132,6 @@ public class HandleListeners {
                             .min(Comparator.comparing(nextCheaperStoreDTO -> Double.valueOf(nextCheaperStoreDTO.getSalePrice())))
                             .orElse(new CheaperStoresDTO("0", "", "", ""));
 
-                    System.out.println(cheapestStoresList.toString());
-
                     String storeId = cheaperStoresDTO.getStoreID();
                     storeDTO = storesList
                             .stream()
