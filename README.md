@@ -7,7 +7,7 @@
 <p>1. Build the project with the following command:</p>
 
 ```
-./gradlew build
+./gradlew build -x test
 ```
 
 <p>2. Run the application with the command:</p>
@@ -17,3 +17,5 @@
 ```
 
 The executable for running in your machine can be found here:
+
+[gamedeals-api-0.0.1-SNAPSHOT.jar](https://www.dropbox.com/s/87ivabt5igz9esy/gamedeals-api-0.0.1-SNAPSHOT.jar?dl=0)
