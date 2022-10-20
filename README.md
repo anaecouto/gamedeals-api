@@ -18,4 +18,4 @@
 
 The executable for running in your machine can be found here:
 
-[gamedeals-api-0.0.1-SNAPSHOT.jar](https://www.dropbox.com/s/87ivabt5igz9esy/gamedeals-api-0.0.1-SNAPSHOT.jar?dl=0)
+[gamedeals-api-0.0.1-SNAPSHOT.jar](https://www.dropbox.com/s/faoukbqvv8tigwb/gamedeals-api-0.0.1-SNAPSHOT.jar?dl=0)
